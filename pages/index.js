@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title> PedroTech Next Tutorial</title>
+        <title> next tutorial</title>
       </Head>
       <Link href="/about"> About</Link>
       <h1 className={styles.homePageTitle}> Hello World</h1>
